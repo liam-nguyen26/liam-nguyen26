@@ -10,6 +10,6 @@
 - 🍍 My skills:
     * 🦞 Java: 1 year (Java core, OOP, JSP, Servlet, Swing, Spring MVC)
     * 🦐 JS (ES6): 2 months
-    * 🦑 ReactJS: 1 month
+    * 🦑 ReactJS: 2 month
     * 🍩 OracleDB/MySQL: 4 months
     * 🧁 NodeJS: 1 month
